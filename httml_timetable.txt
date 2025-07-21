@@ -1,0 +1,157 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Time Table - IIB.Tech I Semester</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #000;
+      background: #fff;
+      margin: 30px;
+    }
+    h1, h2, h3 {
+      margin: 0;
+      padding: 0;
+      font-weight: bold;
+    }
+    h2 {
+      font-size: 20px;
+      text-align: center;
+      margin-top: 10px;
+    }
+    table {
+      width: 100%;
+      border: 1px solid #222;
+      border-collapse: collapse;
+      margin-top: 20px;
+      font-size: 13px;
+    }
+    th, td {
+      border: 1px solid #222;
+      padding: 6px;
+      text-align: center;
+      vertical-align: top;
+    }
+    .college-logo {
+      width: 275px;
+      height: 175px;
+      object-fit: contain;
+      margin-right: 18px;
+    }
+    .header-row {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .note {
+      margin-top: 20px;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="header-row">
+    <img src="https://lh5.googleusercontent.com/proxy/GFtlNbBZDFw6RzkhCVF56ScxB4zKBg2Evqc6iHC_gwOXVkPrixqPXa1mb7hpjqQhkE9wDa2o77xY4b7RaX4hnG_e2ZY"
+         alt="College Logo" class="college-logo" />
+    <div style="text-align: center; line-height: 1.6;">
+      <h2>GAYATRI VIDYA PARISHAD COLLEGE OF ENGINEERING FOR WOMEN (A)</h2>
+      <div style="font-size: 14px;">
+        Madhurawada :: Visakhapatnam – 530 048<br>
+        (Approved by AICTE, New Delhi and Permanently Affiliated to Andhra University, Visakhapatnam)<br>
+        Accredited by NAAC with “A” from 2022 to 2027<br>
+        CSE, ECE and IT Courses Accredited by NBA (2019–2022) and Re-accredited (2022–2025)<br>
+        EEE Course Accredited by NBA (2023–2026)<br>
+        <strong>Ph : 0891-2739144</strong>&nbsp;&nbsp;
+        Fax : 0891-2562639&nbsp;&nbsp;
+        e-mail: gvpcew@gmail.com&nbsp;&nbsp;
+        Website: www.gvpcew.ac.in
+      </div>
+    </div>
+  </div>
+
+  <h2><u>TIME TABLE FOR IIB.TECH I SEMESTER</u></h2>
+  <p style="text-align: center; font-weight: bold;">Class Teacher: D.B. SANTOSHI</p>
+
+  <table>
+    <tr>
+      <th>2CSM2</th>
+      <th>9:30–10:20</th>
+      <th>10:20–11:10</th>
+      <th>11:10–12:00</th>
+      <th>12:00–12:50</th>
+      <th>12:50–1:40</th>
+      <th>1:40–2:30</th>
+      <th>2:30–3:20</th>
+      <th>3:20–4:10</th>
+      <th>4:10–5:00</th>
+    </tr>
+    <tr>
+      <td><b>MON<br>ROOM: 118</b></td>
+      <td>DMS<br>(Mrs. DSSR)</td>
+      <td>DS<br>(Dr. CS)</td>
+      <td>DBMS<br>(Mr. PS)</td>
+      <td>LUNCH</td>
+      <td>OOPS WITH JAVA<br>(Ms. NSM)</td>
+      <td>DEVOPS(T)<br>(Dr. KPN)</td>
+      <td>PE&HV<br>(Dr. RPN)</td>
+      <td>NSS<br>(Mrs. PHL)</td>
+      <td>AIMERSCLUB<br>ACTIVITY</td>
+    </tr>
+    <tr>
+      <td><b>TUE<br>ROOM: 119</b></td>
+      <td>DMS<br>(Mrs. DSSR)</td>
+      <td>DBMS<br>(Mr. PS)</td>
+      <td>DS<br>(Dr. CS)</td>
+      <td>LUNCH</td>
+      <td colspan="2">OOPS WITH JAVA LAB<br>(Ms. NSM, Mrs. HG)</td>
+      <td colspan="2">CSM LABS 1&2</td>
+      <td>LIBRARY</td>
+    </tr>
+    <tr>
+      <td><b>WED</td>
+      <td colspan="3">DS LAB<br>(Mrs. MD, Ms. NSM)<br>ROOM: CSM LABS 1&2</b></td>
+      <td>LUNCH</td>
+      <td>DMS<br>(Mrs. DSSR)<br>ROOM: 119</b></td>
+      <td colspan="2">OOPS WITH JAVA<br>(Ms. NSM)<br>ROOM: 119</b></td>
+      <td>NSS<br>(Mrs. PHL)<br>ROOM: 119</b></td>
+      <td>ME<br>(Mrs. KVK)<br>ROOM: 119</b></td>
+    </tr>
+    <tr>
+      <td><b>THU</td>
+      <td colspan="3">DEVOPS LAB<br>(Dr. KPN)<br>ROOM: PROJECTS LAB</b></td>
+      <td>LUNCH</td>
+      <td>DS<br>(Dr. CS)<br>ROOM: 119</b></td>
+      <td>OOPS WITH JAVA<br>(Ms. NSM)<br>ROOM: 119</b></td>
+      <td>ME<br>(Mrs. KVK)<br>ROOM: 119</b></td>
+      <td>PE&HV<br>(Dr. RPN)<br>ROOM: 119</b></td>
+      <td>LIBRARY</td>
+    </tr>
+    <tr>
+      <td><b>FRI</td>
+      <td colspan="3">DBMS LAB<br>(Mr. PS, Mrs. PSD)<br>ROOM: IT LAB 1&2</b></td>
+      <td>LUNCH</td>
+      <td>DMS<br>(Mrs. DSSR)<br>ROOM: 119</b></td>
+      <td>ME<br>(Mrs. KVK)<br>ROOM: 119</b></td>
+      <td colspan="2">DS<br>(Dr. CS)<br>ROOM: 119</b></td>
+      <td>DBMS<br>(Mr. PS)<br>ROOM: 119</b></td>
+    </tr>
+  </table>
+
+  <div class="note" align="center">
+    <strong>Subjects & Faculty:</strong>
+    DataBase Management System: Mr. P. Siva ;
+    Data Structures: Dr. C. Vasu ;
+    Object Oriented Programming with JAVA: Ms. N. SaiMeghana ;
+    Managerial Economics: Mrs. K. Valli Krishnaveni ;
+    Discrete Mathematical Structures: Mrs. D. S. Sia Ranjani ; 
+    Data Structures Lab: Dr. M. Deepthi, Ms. N. Sai Meghana ;
+    DBMS Lab: Mrs. H. Goutami, Mrs. P. Sridevi ;
+    Skill Development Course I – DevOps: Dr. K. Purushotham Naidu ;
+    PE & Universal Human Values: Dr. Rani Prava Nanda ;
+    NCC/NSS: Ms. P. Hemalatha
+  </div>
+</body>
+</h
